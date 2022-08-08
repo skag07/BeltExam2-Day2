@@ -38,11 +38,7 @@ Looking for Job
 
 ## Projects
 
-Dojo-Jump 
-ELK 
-Sample Java App
-Suggestting restaurants
-Docker flask
+null 
 
 <!-- ### Footer
 
